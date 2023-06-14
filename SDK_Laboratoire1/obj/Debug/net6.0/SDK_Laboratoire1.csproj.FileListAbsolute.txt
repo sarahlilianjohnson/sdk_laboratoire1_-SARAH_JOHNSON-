@@ -1,0 +1,5 @@
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.csproj.AssemblyReference.cache
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.AssemblyInfoInputs.cache
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.AssemblyInfo.cs
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.csproj.CoreCompileInputs.cache

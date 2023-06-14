@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK_Laboratoire1", "SDK_Laboratoire1.csproj", "{B212CE6D-D695-47B1-B231-8ECA064C595D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrairieConversionNote", "..\LibrairieConversionNote\LibrairieConversionNote.csproj", "{5246AEEA-0F3A-43FB-9BB6-55B53E1D96E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B212CE6D-D695-47B1-B231-8ECA064C595D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B212CE6D-D695-47B1-B231-8ECA064C595D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B212CE6D-D695-47B1-B231-8ECA064C595D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5246AEEA-0F3A-43FB-9BB6-55B53E1D96E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5246AEEA-0F3A-43FB-9BB6-55B53E1D96E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5246AEEA-0F3A-43FB-9BB6-55B53E1D96E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5246AEEA-0F3A-43FB-9BB6-55B53E1D96E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
