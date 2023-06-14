@@ -3,3 +3,13 @@ D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.G
 D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.AssemblyInfoInputs.cache
 D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.AssemblyInfo.cs
 D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.csproj.CoreCompileInputs.cache
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.exe
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.deps.json
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.runtimeconfig.json
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.dll
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.pdb
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.dll
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\refint\SDK_Laboratoire1.dll
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.pdb
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.genruntimeconfig.cache
+D:\SchoolHD\Summer_2023\SDK\SDK_Laboratoire1\obj\Debug\net6.0\ref\SDK_Laboratoire1.dll

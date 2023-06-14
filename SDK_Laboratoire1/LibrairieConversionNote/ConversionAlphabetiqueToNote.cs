@@ -33,7 +33,7 @@
         }
         else
         {
-            return "ERREUR! CECE N'EST PAS UNE NOTE!";
+            return "ERREUR! CECI N'EST PAS UNE NOTE!";
         }
     }
 }
